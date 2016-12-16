@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+	//you should probably have a variable for the dice
 	int sorryBoard[50];
 	
 	
